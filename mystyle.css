@@ -1,0 +1,78 @@
+body
+{
+    padding: 5px 2px;
+    
+
+}
+
+
+.MainHeading
+{
+    font-size: 125px;
+    margin: 1px;
+    text-align: center;
+    
+
+}
+
+
+.DisplayPic
+{
+    float: left;
+    margin-right: 20px;
+    width: 100px;
+}
+
+
+
+hr
+{
+ border: 2px solid black;
+}
+
+
+footer
+{
+  color: grey;
+  text-decoration : bold;
+  text-align: center;
+  font-size: smaller;
+}
+/*
+.btn {
+    background-color: black;
+
+    background-image: linear-gradient( #1d1f1f, #1e2424);
+  
+    border-radius: 4px;
+
+    font-family: sans-serif;
+
+    color: #ffffff;
+
+    font-size: 15px;
+
+    padding: 10px 20px 10px 20px;
+
+    text-decoration: none;
+
+    text-align: center;
+
+    margin: 15px auto;
+
+  }
+
+  .btn-div {
+    text-align: center;
+
+    margin: 15px auto;
+
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: linear-gradient( #1d1f1f, #1e2424);
+    text-decoration: none;
+  }
+*/
+
